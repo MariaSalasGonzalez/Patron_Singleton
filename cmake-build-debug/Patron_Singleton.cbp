@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Patron_Singleton"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Patron_Singleton">
+				<Option output="/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Patron_Singleton" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 Patron_Singleton"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Patron_Singleton/fast">
+				<Option output="/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Patron_Singleton" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 Patron_Singleton/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/Users/aligonzalez/CLionProjects/Patron_Singleton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/aligonzalez/CLionProjects/Patron_Singleton/Singleton.cpp">
+			<Option target="Patron_Singleton"/>
+		</Unit>
+		<Unit filename="/Users/aligonzalez/CLionProjects/Patron_Singleton/Singleton.h">
+			<Option target="Patron_Singleton"/>
+		</Unit>
+		<Unit filename="/Users/aligonzalez/CLionProjects/Patron_Singleton/main.cpp">
+			<Option target="Patron_Singleton"/>
+		</Unit>
+		<Unit filename="/Users/aligonzalez/CLionProjects/Patron_Singleton/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
